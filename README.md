@@ -14,6 +14,7 @@ Reusable knowledge base for **Rakuten (楽天) promotion campaigns**, designed s
 |---|---|
 | `guides/` | Per-campaign step-by-step guides (dates, deadlines, registration flows, action items) |
 | `references/` | Reference materials: tutorials, official manuals, external links |
+| `templates/` | Reusable CSV templates for RMS bulk operations (Shift-JIS/CP932 encoded for direct import) |
 
 ## How Agents Should Use This Repo
 
