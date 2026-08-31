@@ -1,9 +1,9 @@
 # Promotion Execution Loops
 
-**Process-map levels:** L2 and L3  
-**Status:** Draft for review  
-**Version:** 0.1.0  
-**Scope:** Amazon, Rakuten, Mercari Shops  
+- **Process-map levels:** L2 and L3
+- **Status:** Draft for review
+- **Version:** 0.1.0
+- **Scope:** Amazon, Rakuten, Mercari Shops
 **Timezone:** Asia/Tokyo
 
 ## Purpose

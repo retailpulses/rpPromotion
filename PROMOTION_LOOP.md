@@ -1,9 +1,9 @@
 # Promotion Loop Definition
 
-**Process-map level:** L1 — end-to-end promotion lifecycle  
-**Status:** Draft for review  
-**Version:** 0.1.0  
-**Scope:** Amazon, Rakuten, Mercari Shops  
+- **Process-map level:** L1 — end-to-end promotion lifecycle
+- **Status:** Draft for review
+- **Version:** 0.1.0
+- **Scope:** Amazon, Rakuten, Mercari Shops
 **Timezone:** Asia/Tokyo
 
 ## Purpose
