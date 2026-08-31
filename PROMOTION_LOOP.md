@@ -1,5 +1,6 @@
 # Promotion Loop Definition
 
+**Process-map level:** L1 — end-to-end promotion lifecycle  
 **Status:** Draft for review  
 **Version:** 0.1.0  
 **Scope:** Amazon, Rakuten, Mercari Shops  
@@ -10,6 +11,8 @@
 Maintain a current, evidence-backed promotion radar and turn material marketplace announcements into prepared, executed, and reviewed campaigns.
 
 This document defines the operating loop. It does not enable an automation or authorize marketplace, customer, pricing, advertising, inventory, or database writes.
+
+Execution-level L2/L3 loops and agent contracts are defined in [PROMOTION_EXECUTION_LOOPS.md](PROMOTION_EXECUTION_LOOPS.md).
 
 ## Loop
 
